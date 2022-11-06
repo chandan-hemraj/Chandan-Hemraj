@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Data Science and Backend API Development
-- 🌱 I’m currently learning GoLang
-- 👯 I’m looking to collaborate on any Data Science projects
+- 🔭 I’m currently working on Data Science and Backend API's Development
+- 🌱 I’m currently learning GoLang Programming Language
+- 👯 I’m looking to collaborate on any Data Science related projects
 - 📫 How to reach me: chandanhemraj99@gmail.com
 - 😄 Pronouns: He/Him
 
